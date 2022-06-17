@@ -8,6 +8,11 @@ after open, put the name of your TFN's, something like "regular.tfn.ckd" or "fat
 press enter and that's it, your TFN's have been encrypted
 any problem, open an issue.
 
+
+
+
+
+
 PT:
 Um serializer para arquivos TFN do Just Dance!
 Como funciona?
@@ -16,3 +21,5 @@ execute o 'main.py'
 depois de aberto, coloque o nome das suas TFN's, algo como "regular.tfn.ckd" ou "fat.tfn.ckd".
 dê enter e pronto, suas TFN's foram encriptadas
 qualquer problema, abra uma issue.
+
+Muito obrigado @WodsonKun por ter me dado o base code!
