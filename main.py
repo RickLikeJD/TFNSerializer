@@ -1,6 +1,13 @@
 import struct, json, zlib, os, shutil, random
-
+mkdir="y"
 # TFN Encryptor by RickL - Base code by WodsonKun
+if mkdir=="y":
+    try:
+        os.mkdir("output")
+    except:
+        pass
+
+
 print("TFN Encryptor by RickL")
 filename=input("Please input your TFN here: ")
 
